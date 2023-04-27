@@ -14,6 +14,7 @@ namespace MyProject.Model.DTOs
         private static List<NpuDTO> ConvertNpuToNpuDTO(ICollection<Npu> x) => new(x.ToList().Select(x => new NpuDTO
         {
             Id = x.Id,
+            OwnerId = x.OwnerId,
             Picture = x.Picture,
             Description = x.Description,
             ElementName = x.ElementName
@@ -22,6 +23,7 @@ namespace MyProject.Model.DTOs
         private static List<Npu> ConvertNpuDTOToNpu(ICollection<NpuDTO> dtos) => new(dtos.ToList().Select(x => new Npu
         {
             Id = x.Id,
+            OwnerId = x.OwnerId,
             Picture = x.Picture,
             Description = x.Description,
             ElementName = x.ElementName
