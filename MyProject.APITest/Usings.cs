@@ -1,0 +1,13 @@
+global using Xunit;
+global using Microsoft.EntityFrameworkCore;
+global using Moq;
+global using MyProject.Model.Database;
+global using MyProject.Model.DTOs;
+global using MyProject.Model.Services;
+global using MyProject.API.Controllers;
+global using Microsoft.AspNetCore.Mvc;
+global using System.Diagnostics;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using System.Security.Claims;
