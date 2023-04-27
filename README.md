@@ -4,7 +4,7 @@
 ![Untitled](https://user-images.githubusercontent.com/84437714/234776487-0316596f-d3e0-42f2-bd7c-911d12f95e81.png)
 
 ## Component Diagram
-![ComponentDiagram](https://user-images.githubusercontent.com/84437714/234776680-a37d7c7d-ed08-41b4-8bca-e368aa298747.jpeg)
+![Interview Component Diagram](https://user-images.githubusercontent.com/84437714/234940575-ed8ec7f9-5ca8-4a98-b856-b65149bf25d9.jpeg)
 
 ## WireFrame for Mobile and Desktop
 ![Desktop_Home](https://user-images.githubusercontent.com/84437714/234776757-537957b6-2ee4-49ae-8310-a69d0b9d5962.png)
